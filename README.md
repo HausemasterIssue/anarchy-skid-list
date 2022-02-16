@@ -45,7 +45,7 @@ Primooctopus33 - Claims OctoHack's "good" modules are custom then instantly once
 
 Wolfsurge - Devs one of the worst clients to ever exist. North korean coder. Claims to credit people if he uses their code, but skidded LiquidBounce's custom font renderer (which is under GPL-3.0 btw). Unironically renders his text by calling the method for each letter. Gets bullied at school (not bait).
 
-HausemasterIssue - Can't make 1 line of custom code & 50 clients into 1 with SpiderSense. Is one of the stupidest people to own a keyboard and cannot code for shit. Also hates Future cause 0x banned him or some shit.
+HausemasterIssue - Can't make 1 line of custom code & 50 clients into 1 with SpiderSense. Is one of the stupidest people to own a keyboard and cannot code for shit. Was super jealous of people with paid clients because he was and still is poor asf. He thought he actually had an opinion on what montages are "Good".
 
 zPrestige_ - Mega OyVey fetish & his prestige base is so bad my god. Doesn't know how to use GL_SCISSOR lel.
 
